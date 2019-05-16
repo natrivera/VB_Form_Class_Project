@@ -1,0 +1,62 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CPP
+</name>
+</assembly>
+<members>
+<member name="T:CPP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CPP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CPP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CPP.CPP_DB.loadStudents">
+ 
+ STUDENTS SECTION
+ 
+</member>
+<member name="M:CPP.CPP_DB.loadIntructor">
+END OF STUDENT SECTION
+
+INTRUCTOR SECTION
+
+
+</member>
+<member name="M:CPP.CPP_DB.loadCourses">
+END OF INSTRUCTOR SECTION
+
+
+
+COURSES SECTION
+</member>
+<member name="M:CPP.CPP_DB.loadCatalog">
+ END OF COURSES SECTION
+ 
+ 
+ CATALOG SECTION
+</member>
+<member name="M:CPP.CPP_DB.loadEnrollments">
+ END OF CATALOG SECTION
+ 
+ 
+ ENROLLMENT SECTION
+</member>
+<member name="M:CPP.CPP_DB.findStudent(System.String)">
+ END OF ENROLLMENT SECTION
+ 
+ 
+</member>
+</members>
+</doc>
